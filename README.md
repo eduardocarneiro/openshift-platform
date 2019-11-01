@@ -21,5 +21,5 @@ This repository includes step-by-step guides to each topic from openshift docume
 * [17 - CRI-O Runtime](#cri-o-runtime)
 * [18 - Service Mesh Install](#service-mesh-install)
 * [19 - KB](#kb)
-* [21 - Troubleshooting](#troubleshooting)
+* [20 - Troubleshooting](#troubleshooting)
 
