@@ -1,7 +1,7 @@
 # openshift-platform
 
 Red Hat Openshift Platform
- # OpenShift Container Platform 4.3
+ # OpenShift Container Platform 4.2
 
 This repository includes step-by-step guides to each topic from a mix of docs.openshfit.com and Red Hat Openshift documentation 
 
@@ -29,7 +29,6 @@ This repository includes step-by-step guides to each topic from a mix of docs.op
 * [22 - Backup and restore](#backup_and_restore)
 * [23 - Migration](#migration)
 * [24 - CLI tools](#cli_tools)
-* [25 - Openshift REST APIs](#openshift_rest_apis)
-* [26 - Service Mesh](#service_mesh)
-* [27 - Container-native virtualization](#container-native_virtualization)
-* [28 - Serverless applications](#serverless_applications)
+* [25 - Service Mesh](#service_mesh)
+* [26 - Container-native virtualization](#container-native_virtualization)
+* [27 - Serverless applications](#serverless_applications)
