@@ -9,7 +9,7 @@ This repository includes step-by-step guides to each topic from a mix of docs.op
 * [02 - Release notes](#release-notes)
 * [03 - Architecture](#architecture)
 * [04 - Installing](#installing)
-* [05 - Updating clusters](./05-update/update.md)
+* [05 - Updating clusters](./05-update/update.adoc)
 * [06 - Support](#support)
 * [07 - Web console](#web-console)
 * [08 - Authentication](#authentication)
