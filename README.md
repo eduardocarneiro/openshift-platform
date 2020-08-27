@@ -2,7 +2,7 @@
 
 This repository includes step-by-step guides to each topic from openshift documentation 
 
-* [01 - Welcome] (#welcome)
+* [01 - Welcome](#welcome)
 * [02 - Release Notes](#release-notes)
 * [03 - Architecture](./03-arquitecture/arquitecture.adoc)
 * [04 - Installing](#architecture)
@@ -33,4 +33,5 @@ This repository includes step-by-step guides to each topic from openshift docume
 * [29 - Jaeger](#jaeger)
 * [30 - Openshift Virtualization](#openshift-virtualization)
 * [31 - Serverless applications](#serverless-applications)
+* [32 - KB](./32-kb.adoc)
 
