@@ -5,3 +5,7 @@ https://access.redhat.com/solutions/4539491
 
 * Applications scheduled to infra nodes in OpenShift 4 +
 https://access.redhat.com/solutions/5238051 
+
+* Unstable console OCP4.5 on Azure
+https://access.redhat.com/solutions/5238051 
+
