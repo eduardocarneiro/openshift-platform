@@ -1,5 +1,5 @@
 
-KBs
+KBs:
 
 * How can a user update OpenShift 4 console route (works to ocp4.5 ) +
 https://access.redhat.com/solutions/4539491 
